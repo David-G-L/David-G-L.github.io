@@ -37,8 +37,6 @@ owner:
   twitter: davidmgleon
   disqus-shortname: davidgl
   feed: false
-  google: 
-    analytics: UA-56785827-2
  
 
 include: [".htaccess"]
