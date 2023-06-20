@@ -5,6 +5,9 @@ share: false
 ---
 ### Journal Articles
 <div class="middle">
+<span>Shahpari, G., Ashena, M., Mart&#xED;nez-Cruz, A.L., and <strong>D. Garc&#xED;a-Le&#xF3;n</strong> (2023). <strong>Implications for the Iranian economy from climate change effects on agriculture—a static computable general equilibrium approach</strong>. <em>Theoretical and Applied Climatology</em>. [doi:<a href="https://doi.org/10.1007/s00704-023-04506-0" target="_blank" onclick="ga('send','event','Descarga Papers','Iran-2');"><u>10.1007/s00704-023-04506-0</u></a>]</span> <img style="padding: 10px;" src="/images/tac_front.png">
+</div>
+<div class="middle">
 <span>Matei, N.A., <strong>Garc&#xED;a-Le&#xF3;n, D.</strong>, Dosio, A., Batista e Silva, F., Ribeiro Barranco, R., and J.C. Císcar (2023). <strong>Regional impact of climate change on European tourism demand</strong>. <em>JRC Technical Report</em>, JRC131508. [doi:<a href="https://www.doi.org/10.2760/899611" target="_blank" onclick="ga('send','event','Descarga Papers','DGL23.1');"><u>10.2760/899611</u></a>] [<a href="http://data.europa.eu/89h/af97f546-8e9d-4977-9ce3-72e3ed54f3cc"><u>Data</u></a>]</span> <img style="padding: 10px;" src="/images/DGL23_1_front.png">
 </div>
 <div class="middle">
