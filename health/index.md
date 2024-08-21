@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Temperature-related mortality burden and projected change in 1368 European regions: a modelling study
+title: Temperature-related mortality burden and projected change in 1368 European regions - A modelling study
 excerpt: Temperature-related mortality in Europe: Current patterns and projected change
 tags: [climate change, global warming, regions, NUTS, public health, mortality, ageing, adaptation]
 comments: true
 share: false
 image:
-  feature: transforming-tourism-for-climate-action-crop.jpg
+  feature: public-health-banner.jpg
 ---
 
 #### with Pierre Masselot, Malcolm N. Mistry, Antonio Gasparrini, Corrado Motta, Luc Feyen and Juan-Carlos Ciscar. [*The Lancet Public Health* 9(9).](https://www.thelancet.com/journals/lanpub/article/PIiS2468-2667(24)00179-8/fulltext){:target="_blank"}
