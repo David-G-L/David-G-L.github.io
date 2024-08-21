@@ -5,7 +5,7 @@ share: false
 ---
 ### Journal Articles
 <div class="middle">
-<span><strong>Garc&#xED;a-Le&#xF3;n, D.</strong>, Masselot, P., Mistry, M.N., Gasparrini, A., Motta, C., Feyen, L. and J.C. Ciscar (2024). <strong>Temperature-related mortality burden and projected change in 1368 European regions: a modelling study</strong>. <em>The Lancet Public Health</em>. [doi:<a href="https://doi.org/10.1007/s00704-023-04506-0" target="_blank" onclick="ga('send','event','Descarga Papers','LPH');"><u>10.1007/s00704-023-04506-0</u></a>]</span> <img style="padding: 10px;" src="/images/lpubh_front.png">
+<span><strong>Garc&#xED;a-Le&#xF3;n, D.</strong>, Masselot, P., Mistry, M.N., Gasparrini, A., Motta, C., Feyen, L. and J.C. Ciscar (2024). <strong>Temperature-related mortality burden and projected change in 1368 European regions: a modelling study</strong>. <em>The Lancet Public Health</em>. [doi:<a href="https://doi.org/10.1016/S2468-2667(24)00179-8" target="_blank" onclick="ga('send','event','Descarga Papers','LPH');"><u>10.1016/S2468-2667(24)00179-8</u></a>]</span> <img style="padding: 10px;" src="/images/lpubh_front.png">
 </div>
 <div class="middle">
 <span>Shahpari, G., Ashena, M., Mart&#xED;nez-Cruz, A.L., and <strong>D. Garc&#xED;a-Le&#xF3;n</strong> (2023). <strong>Implications for the Iranian economy from climate change effects on agriculture—a static computable general equilibrium approach</strong>. <em>Theoretical and Applied Climatology</em> 153, p1221–1235. [doi:<a href="https://doi.org/10.1007/s00704-023-04506-0" target="_blank" onclick="ga('send','event','Descarga Papers','Iran-2');"><u>10.1007/s00704-023-04506-0</u></a>]</span> <img style="padding: 10px;" src="/images/tac_front.png">

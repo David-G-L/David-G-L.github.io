@@ -6,7 +6,7 @@ tags: [climate change, global warming, regions, NUTS, public health, mortality, 
 comments: true
 share: false
 image:
-  feature: public-health-banner.jpg
+  feature: transforming-tourism-for-climate-action-crop.jpg
 ---
 
 #### with Pierre Masselot, Malcolm N. Mistry, Antonio Gasparrini, Corrado Motta, Luc Feyen and Juan-Carlos Ciscar. [*The Lancet Public Health* 9(9).](https://www.thelancet.com/journals/lanpub/article/PIiS2468-2667(24)00179-8/fulltext){:target="_blank"}
