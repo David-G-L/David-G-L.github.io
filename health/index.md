@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Temperature-related mortality burden and projected change in 1368 European regions - A modelling study
-excerpt: Temperature-related mortality in Europe: Current patterns and projected change
+excerpt: Temperature-related mortality in Europe - Current patterns and projected change
 tags: [climate change, global warming, regions, NUTS, public health, mortality, ageing, adaptation]
 comments: true
 share: false
