@@ -9,7 +9,7 @@ image:
   feature: public-health-banner.jpg
 ---
 
-#### with Pierre Masselot, Malcolm N. Mistry, Antonio Gasparrini, Corrado Motta, Luc Feyen and Juan-Carlos Ciscar. [*The Lancet Public Health* 9.](https://www.thelancet.com/journals/lanpub/article/PIiS2468-2667(24)00179-8/fulltext){:target="_blank"}
+#### with Pierre Masselot, Malcolm N. Mistry, Antonio Gasparrini, Corrado Motta, Luc Feyen and Juan-Carlos Ciscar. [*The Lancet Public Health* 9(9), e644-e653.](https://www.thelancet.com/journals/lanpub/article/PIiS2468-2667(24)00179-8/fulltext){:target="_blank"}
 
 We modelled current and future mortality due to non-optimal temperatures across 1368 European regions, considering age-specific characteristics and local socioeconomic vulnerabilities. Age and city-specific exposure-response functions were obtained for a comprehensive list of 854 European cities from the Urban Audit dataset of Eurostat. Regional aggregates were calculated using an aggregation and extrapolation method that incorporates the risk incidence in neighbouring cities. Mortality was projected for present conditions observed in 1991–2020 and for four different levels of global warming (1.5°C, 2°C, 3°C, and 4°C increase) by regions, and subregions using an ensemble of 11 climate models.
 
