@@ -5,7 +5,13 @@ share: false
 ---
 ### Journal Articles
 <div class="middle">
+<span>Ioannou, L.G., Liang, J., Tsoutsoubi, L., Mantzios, K., Gkikas, G., Agaliotis, G., Koutedakis, Y., Kenny, G.P., Havenith, G., <strong>Garc&#xED;a-Le&#xF3;n, D.</strong>, Otto, M., Nybo, L., Arkolakis, C., and A.D. Flouris (2025). <strong>The impact of workplace heat and cold on work time loss</strong>. <em>Journal of Occupational and Environmental Medicine</em>. In press.</span> <img style="padding: 10px;" src="/images/joem_front.png">
+</div>
+<div class="middle">
 <span><strong>Garc&#xED;a-Le&#xF3;n, D.</strong>, Matei, N.A., Batista e Silva, F., Barranco, R., Dosio, A. and J.C. Ciscar (2025). <strong>European tourism demand in the face of climate change: Asymmetric impacts, demand reallocation, and deseasonalisation strategies</strong>. <em>Environmental Research Letters</em>. [doi:<a href="https://doi.org/10.1088/1748-9326/adaa04" target="_blank" onclick="ga('send','event','Descarga Papers','ERL');"><u>10.1088/1748-9326/adaa04</u></a>]</span> <img style="padding: 10px;" src="/images/erl_front.png">
+</div>
+<div class="middle">
+<span>Masselot, P., Mistry, M.N., Rao, S., Huber, V., Monteiro, A., Samoli, E., Stafoggia, M., de Donato, F., <strong>Garc&#xED;a-Le&#xF3;n, D.</strong>, Ciscar, J.C., Feyen, L., Schneider, A., Katsouyanni, K., Vicedo-Cabrera, A., Aunan, K. and A. Gasparrini (2025). <strong>Estimating future heat and cold-related mortality under climate change, demographic and adaptation scenarios in 854 European cities</strong>. <em>Nature Medicine</em>. [doi:<a href="https://doi.org/10.1038/s41591-024-03452-2" target="_blank" onclick="ga('send','event','Descarga Papers','NMED');"><u>10.1088/1748-9326/adaa04</u></a>]</span> <img style="padding: 10px;" src="/images/nmed_front.png">
 </div>
 <div class="middle">
 <span><strong>Garc&#xED;a-Le&#xF3;n, D.</strong>, Masselot, P., Mistry, M.N., Gasparrini, A., Motta, C., Feyen, L. and J.C. Ciscar (2024). <strong>Temperature-related mortality burden and projected change in 1368 European regions: a modelling study</strong>. <em>The Lancet Public Health</em> 9(9), e644-e653. [doi:<a href="https://doi.org/10.1016/S2468-2667(24)00179-8" target="_blank" onclick="ga('send','event','Descarga Papers','LPH');"><u>10.1016/S2468-2667(24)00179-8</u></a>]</span> <img style="padding: 10px;" src="/images/lpubh_front.png">
