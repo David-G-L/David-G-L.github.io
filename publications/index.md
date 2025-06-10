@@ -5,7 +5,7 @@ share: false
 ---
 ### Journal Articles
 <div class="middle">
-<span>Galmarini, S., Román Cuesta, R.M., Dentener, F., Ruiz Moreno, A., Alessi, L. et al. (2025). <strong>Raising Awareness of Earth System Tipping Points: Implications for EU Governance</strong>. Publications Office of the European Union, Luxembourg, JRC141821. [doi:<a href="https://data.europa.eu/doi/10.2760/9047293" target="_blank" onclick="ga('send','event','Descarga Papers','Tipping');"><u>10.2760/9047293</u></a>]</span> <img style="padding: 10px;" src="/images/tipping_front.png">
+<span>Galmarini, S., Román Cuesta, R.M., Dentener, F., Ruiz Moreno, A., Alessi, L. et al. (2025). <strong>Raising Awareness of Earth System Tipping Points: Implications for EU Governance</strong>. Publications Office of the European Union, Luxembourg, JRC141821. [doi:<a href="https://data.europa.eu/doi/10.2760/9047293" target="_blank" onclick="ga('send','event','Descarga Papers','Tipping');"><u>10.2760/9047293</u></a>]</span> <img style="padding: 10px;" src="/images/tipping.png">
 </div>
 <div class="middle">
 <span>Ioannou, L.G., Tsoutsoubi, L., Mantzios, K., Gkikas, G., Agaliotis, G., Koutedakis, Y., <strong>Garc&#xED;a-Le&#xF3;n, D.</strong>, Havenith, G., Liang, J., Arkolakis, C., Glaser, J., Kenny, G., Mekjavic, I., Nybo, L., and A.D. Flouris (2025). <strong>The impact of workplace heat and cold on work time loss</strong>. <em>Journal of Occupational and Environmental Medicine</em>. [doi:<a href="https://doi.org/10.1097/JOM.0000000000003332" target="_blank" onclick="ga('send','event','Descarga Papers','JOEM');"><u>10.1097/JOM.0000000000003332</u></a>]</span> <img style="padding: 10px;" src="/images/joem_front.png">
